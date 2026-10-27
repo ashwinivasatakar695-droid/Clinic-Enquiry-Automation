@@ -1,0 +1,201 @@
+enquiry_id,message,date,channel
+ENQ001,I want to book an appointment,2026-02-27,Phone
+ENQ002,I need an appointment as soon as possible,2026-05-06,Email
+ENQ003,I need help with my appointment,2026-02-22,Website
+ENQ004,I want to book an appointment,2026-08-05,Website
+ENQ005,I need an appointment as soon as possible,2026-02-17,Email
+ENQ006,,2026-09-16,Website
+ENQ007,I need help with my appointment,2026-04-12,Whatsapp
+ENQ008,Please confirm my booking,2026-04-23,Phone
+ENQ009,I have a question about my bill,2026-01-04,Whatsapp
+ENQ010,Can I reschedule my visit?,2026-06-24,Email
+ENQ011,What are your clinic timings?,2026-04-21,Website
+ENQ012,I want to know the consultation fee,2026-02-17,Website
+ENQ013,What are your clinic timings?,2026-07-03,Unknown
+ENQ014,Please confirm my booking,2026-01-23,Website
+ENQ015,Please cancel my appointment,2026-07-13,Phone
+ENQ016,I have a billing issue,2026-07-05,Email
+ENQ017,I want to book an appointment,2026-02-05,Email
+ENQ018,Please cancel my appointment,2026-05-29,Email
+ENQ019,I want to know the consultation fee,2026-02-21,Phone
+ENQ020,What are your clinic timings?,2026-08-21,Email
+ENQ021,What are your clinic timings?,2026-08-27,Email
+ENQ022,Please cancel my appointment,2026-05-17,Email
+ENQ023,I have a question about my bill,2026-05-06,Whatsapp
+ENQ024,Can I reschedule my visit?,2026-07-14,Email
+ENQ025,I want to book an appointment,2026-06-16,Email
+ENQ026,What are your clinic timings?,2026-01-17,Whatsapp
+ENQ027,Please cancel my appointment,2026-05-18,Email
+ENQ028,I need an appointment as soon as possible,2026-06-11,Whatsapp
+ENQ029,Please confirm my booking,2026-07-22,Email
+ENQ030,I have a question about my bill,2026-05-16,Email
+ENQ031,I have a billing issue,2026-05-15,Whatsapp
+ENQ032,What are your clinic timings?,2026-07-24,Email
+ENQ033,I need help with my appointment,2026-03-12,Whatsapp
+ENQ034,I want to book an appointment,2026-02-16,Website
+ENQ035,I have a question about my bill,2026-03-20,Whatsapp
+ENQ036,I want to know the consultation fee,2026-02-02,Whatsapp
+ENQ037,I need help with my appointment,2026-08-28,Phone
+ENQ038,Please cancel my appointment,2026-01-06,Phone
+ENQ039,Please cancel my appointment,2026-06-24,Phone
+ENQ040,I have a question about my bill,2026-08-11,Whatsapp
+ENQ041,Can I reschedule my visit?,2026-01-02,Email
+ENQ042,Please cancel my appointment,2026-09-17,Phone
+ENQ043,I have a billing issue,2026-09-17,Email
+ENQ044,What are your clinic timings?,2026-03-20,Email
+ENQ045,I have a billing issue,2026-01-01,Phone
+ENQ046,I want to book an appointment,2026-09-08,Website
+ENQ047,Can I reschedule my visit?,2026-07-05,Email
+ENQ048,I need an appointment as soon as possible,2026-01-30,Website
+ENQ049,Please confirm my booking,2026-02-13,Website
+ENQ050,I have a question about my bill,2026-03-06,Whatsapp
+ENQ051,Can I reschedule my visit?,2026-03-26,Whatsapp
+ENQ052,I need help with my appointment,2026-04-19,Email
+ENQ053,I want to know the consultation fee,2026-06-09,Phone
+ENQ054,I need help with my appointment,2026-08-13,Whatsapp
+ENQ055,I need an appointment as soon as possible,2026-03-03,Email
+ENQ056,What are your clinic timings?,2026-02-02,Website
+ENQ057,I have a billing issue,2026-04-28,Email
+ENQ058,Please cancel my appointment,2026-01-04,Website
+ENQ059,Please cancel my appointment,2026-04-28,Website
+ENQ060,Please cancel my appointment,2026-06-19,Email
+ENQ061,Please confirm my booking,2026-05-23,Email
+ENQ062,I have a billing issue,2026-03-09,Whatsapp
+ENQ063,Please confirm my booking,2026-05-05,Whatsapp
+ENQ064,Please cancel my appointment,2026-04-08,Website
+ENQ065,What are your clinic timings?,2026-08-09,Whatsapp
+ENQ066,Please confirm my booking,2026-07-30,Website
+ENQ067,I want to book an appointment,2026-02-20,Whatsapp
+ENQ068,Please cancel my appointment,2026-06-23,Email
+ENQ069,I need an appointment as soon as possible,2026-04-09,Whatsapp
+ENQ070,I want to know the consultation fee,2026-03-13,Email
+ENQ071,Please confirm my booking,2026-05-23,Email
+ENQ072,Please confirm my booking,2026-02-08,Website
+ENQ073,I need help with my appointment,2026-01-26,Website
+ENQ074,I need an appointment as soon as possible,2026-02-17,Email
+ENQ075,Please confirm my booking,2026-07-28,Whatsapp
+ENQ076,I want to know the consultation fee,2026-04-20,Website
+ENQ077,I want to know the consultation fee,2026-03-26,Website
+ENQ078,Can I reschedule my visit?,2026-07-19,Whatsapp
+ENQ079,I want to know the consultation fee,2026-05-27,Whatsapp
+ENQ080,I need an appointment as soon as possible,2026-03-21,Phone
+ENQ081,I want to book an appointment,2026-04-22,Website
+ENQ082,I want to book an appointment,2026-06-10,Website
+ENQ083,I need help with my appointment,2026-09-02,Email
+ENQ084,I need help with my appointment,2026-01-30,Website
+ENQ085,Please cancel my appointment,2026-04-06,Website
+ENQ086,I want to know the consultation fee,2026-05-01,Website
+ENQ087,I have a billing issue,2026-05-07,Website
+ENQ088,I want to know the consultation fee,2026-02-11,Phone
+ENQ089,I need an appointment as soon as possible,2026-05-14,Phone
+ENQ090,Can I reschedule my visit?,2026-05-03,Whatsapp
+ENQ091,Can I reschedule my visit?,2026-03-09,Whatsapp
+ENQ092,Please cancel my appointment,2026-06-11,Website
+ENQ093,I have a billing issue,2026-08-23,Website
+ENQ094,I need help with my appointment,2026-02-07,Email
+ENQ095,Can I reschedule my visit?,2026-09-17,Email
+ENQ096,Please cancel my appointment,2026-06-28,Email
+ENQ097,Can I reschedule my visit?,2026-07-09,Email
+ENQ098,I need help with my appointment,2026-08-13,Phone
+ENQ099,I want to book an appointment,2026-09-28,Phone
+ENQ100,I have a question about my bill,2026-02-23,Phone
+ENQ101,Please cancel my appointment,2026-03-01,Email
+ENQ102,Can I reschedule my visit?,2026-05-20,Email
+ENQ103,I need an appointment as soon as possible,2026-06-25,Phone
+ENQ104,Please confirm my booking,2026-09-16,Phone
+ENQ105,Please cancel my appointment,2026-01-27,Whatsapp
+ENQ106,I want to book an appointment,2026-05-22,Website
+ENQ107,I have a question about my bill,2026-06-20,Phone
+ENQ108,Please confirm my booking,2026-03-24,Whatsapp
+ENQ109,Please cancel my appointment,2026-01-05,Website
+ENQ110,I need help with my appointment,2026-03-18,Website
+ENQ111,I have a billing issue,2026-07-09,Email
+ENQ112,I have a question about my bill,2026-08-09,Website
+ENQ113,What are your clinic timings?,2026-06-07,Website
+ENQ114,I need an appointment as soon as possible,2026-07-03,Email
+ENQ115,What are your clinic timings?,2026-02-22,Whatsapp
+ENQ116,I need an appointment as soon as possible,2026-03-21,Email
+ENQ117,I want to know the consultation fee,2026-04-01,Website
+ENQ118,What are your clinic timings?,2026-04-02,Whatsapp
+ENQ119,Can I reschedule my visit?,2026-05-08,Email
+ENQ120,I want to know the consultation fee,2026-02-25,Website
+ENQ121,I need an appointment as soon as possible,2026-08-29,Email
+ENQ122,What are your clinic timings?,2026-08-24,Phone
+ENQ123,I need an appointment as soon as possible,2026-04-27,Website
+ENQ124,I want to know the consultation fee,2026-04-09,Phone
+ENQ125,Please cancel my appointment,2026-05-23,Phone
+ENQ126,I need help with my appointment,2026-06-29,Whatsapp
+ENQ127,I want to book an appointment,2026-06-19,Website
+ENQ128,I have a question about my bill,2026-05-14,Phone
+ENQ129,Please cancel my appointment,2026-01-20,Whatsapp
+ENQ130,What are your clinic timings?,2026-06-26,Whatsapp
+ENQ131,Please cancel my appointment,2026-09-19,Whatsapp
+ENQ132,Can I reschedule my visit?,2026-04-08,Website
+ENQ133,I want to book an appointment,2026-08-12,Email
+ENQ134,I want to know the consultation fee,2026-07-06,Website
+ENQ135,I have a billing issue,2026-06-19,Phone
+ENQ136,Can I reschedule my visit?,2026-03-05,Phone
+ENQ137,What are your clinic timings?,2026-07-29,Whatsapp
+ENQ138,I need help with my appointment,2026-06-01,Email
+ENQ139,I want to know the consultation fee,2026-04-09,Whatsapp
+ENQ140,I have a billing issue,2026-03-31,Phone
+ENQ141,I need help with my appointment,2026-07-27,Website
+ENQ142,Can I reschedule my visit?,2026-06-05,Email
+ENQ143,I have a billing issue,2026-08-09,Phone
+ENQ144,Please confirm my booking,2026-08-27,Whatsapp
+ENQ145,I need help with my appointment,2026-04-20,Whatsapp
+ENQ146,Please cancel my appointment,2026-03-28,Phone
+ENQ147,I have a billing issue,2026-09-21,Phone
+ENQ148,I need an appointment as soon as possible,2026-02-17,Phone
+ENQ149,I need an appointment as soon as possible,2026-04-26,Email
+ENQ150,I want to book an appointment,2026-01-13,Email
+ENQ151,I have a billing issue,2026-09-01,Website
+ENQ152,I want to know the consultation fee,2026-08-22,Email
+ENQ153,Please confirm my booking,2026-07-16,Whatsapp
+ENQ154,I have a question about my bill,2026-05-05,Website
+ENQ155,I want to know the consultation fee,2026-02-24,Email
+ENQ156,I need help with my appointment,2026-04-01,Whatsapp
+ENQ157,I need help with my appointment,2026-01-26,Email
+ENQ158,Please confirm my booking,2026-03-04,Email
+ENQ159,I need help with my appointment,2026-08-26,Phone
+ENQ160,I have a billing issue,2026-08-15,Whatsapp
+ENQ161,I have a question about my bill,2026-08-17,Whatsapp
+ENQ162,Can I reschedule my visit?,2026-08-19,Email
+ENQ163,I need help with my appointment,2026-05-22,Whatsapp
+ENQ164,Can I reschedule my visit?,2026-05-03,Whatsapp
+ENQ165,Can I reschedule my visit?,2026-02-09,Email
+ENQ166,What are your clinic timings?,2026-05-20,Phone
+ENQ167,I have a question about my bill,2026-02-11,Email
+ENQ168,I want to know the consultation fee,2026-04-29,Email
+ENQ169,Please cancel my appointment,2026-04-20,Whatsapp
+ENQ170,What are your clinic timings?,2026-07-28,Whatsapp
+ENQ171,I want to book an appointment,2026-08-01,Email
+ENQ172,I want to know the consultation fee,2026-08-04,Website
+ENQ173,Please confirm my booking,2026-07-14,Website
+ENQ174,Can I reschedule my visit?,2026-06-30,Whatsapp
+ENQ175,I need help with my appointment,2026-08-03,Email
+ENQ176,I need an appointment as soon as possible,2026-09-07,Phone
+ENQ177,Please confirm my booking,2026-08-12,Website
+ENQ178,What are your clinic timings?,2026-07-19,Whatsapp
+ENQ179,Please confirm my booking,2026-03-26,Email
+ENQ180,I want to know the consultation fee,2026-01-14,Website
+ENQ181,I want to know the consultation fee,2026-02-12,Email
+ENQ182,I have a question about my bill,2026-08-25,Website
+ENQ183,I want to know the consultation fee,2026-05-14,Phone
+ENQ184,Please confirm my booking,2026-04-19,Phone
+ENQ185,I want to know the consultation fee,2026-06-22,Phone
+ENQ186,Can I reschedule my visit?,2026-08-04,Website
+ENQ187,I want to book an appointment,2026-08-29,Website
+ENQ188,I need an appointment as soon as possible,2026-06-29,Website
+ENQ189,I want to book an appointment,2026-01-21,Email
+ENQ190,I want to book an appointment,2026-04-13,Email
+ENQ191,I have a question about my bill,2026-05-03,Whatsapp
+ENQ192,I have a billing issue,2026-02-28,Email
+ENQ193,Can I reschedule my visit?,2026-08-27,Phone
+ENQ194,I have a billing issue,2026-03-27,Website
+ENQ195,Can I reschedule my visit?,2026-03-25,Website
+ENQ196,Can I reschedule my visit?,2026-01-14,Whatsapp
+ENQ197,I need an appointment as soon as possible,2026-07-23,Website
+ENQ198,Please cancel my appointment,2026-05-05,Phone
+ENQ199,I have a billing issue,2026-03-03,Website
+ENQ200,I need help with my appointment,2026-06-27,Whatsapp
